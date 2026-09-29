@@ -1,6 +1,8 @@
 # airbnb-property-analysis
 An analysis of public Airbnb data across 10 cities.
 
+[Graphs can be seen here](https://public.tableau.com/views/AnanalysisofpublicAirbnbdataacross10cities_/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 # Evaluating Airbnb Property Opportunities Using Publicly Available Listings Data
 
 
